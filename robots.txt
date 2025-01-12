@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://samyuktha-ramadurai.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://samyuktha-ramadurai.github.io/sitemap.xml
